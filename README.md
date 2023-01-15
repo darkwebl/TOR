@@ -31,3 +31,8 @@ WeedX - http://weeeedxejprore6lprzg5xwgkujwi27yk6vdj2qtizxoxm7dqe52vaid.onion
 
 Alphabay - http://alphabayxrtyojsbxeb27bxllkdfadkx4vx35id4idlfkuiafpr6neyk.onion
 
+
+# These links only work with TOR browser!
+
+Tor browser can be downloaded here https://www.torproject.org/download/
+If any of links above stops working you can write me a message and i will try to find updated version of it
